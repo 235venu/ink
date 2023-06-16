@@ -33,7 +33,7 @@ subxt = "0.28.0"
 
 # Substrate
 pallet-contracts-primitives = "23.0.0"
-sp-core = "20.0.0"
+sp-core = "21.0.0"
 sp-keyring = "23.0.0"
 sp-runtime = "23.0.0"
 sp-weights = "19.0.0"
